@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Samueiii</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png"/></a>
+<a target="_blank" href="mipagina"><img src="https://postimg.cc/9zT6M8Zt"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
