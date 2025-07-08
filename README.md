@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Samueiii</h1>
 
-<a target="_blank" href="mipagina"><img src="https://postimg.cc/9zT6M8Zt"/></a>
+<a target="_blank" href="mipagina"><img src="https://github.com/samueiii/samueiii/blob/main/doomgif.gif"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
